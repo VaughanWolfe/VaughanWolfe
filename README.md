@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Vaughan.
+Brand strategist. Community builder. Storyteller.
 
-<!--
-**VaughanWolfe/VaughanWolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm not a developer — but I'm genuinely at home at the intersection of human meaning and emerging technology. I build brands, content systems, and communities from scratch. I find the stories that matter inside organizations and make them travel.
+In early 2026 I integrated Claude into every dimension of my strategic and creative work, with AI workflows expanding across supporting platforms — and the practice keeps growing.
+I now run an AI-native brand strategy consultancy, DAVA Design Media, built from the ground up using Claude as a core collaborator.
+I'm here because the most interesting work happening right now lives at this intersection — and I don't want to observe it from a distance.
 
-Here are some ideas to get you started:
+What I'm building:
+DAVA Design Media — AI-native brand strategy
+Coffee & Claude — a community gathering concept for the AI moment
+A storytelling practice around the humans building with AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me:
+Portfolio: vaughanwolfe.myportfolio.com
+LinkedIn: linkedin.com/in/karenvaughan
