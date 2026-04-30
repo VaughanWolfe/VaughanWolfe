@@ -4,9 +4,9 @@ Brand strategist. Community builder. Storyteller.
 
 I'm not a developer — but I'm genuinely at home at the intersection of human meaning and emerging technology. I build brands, content systems, and communities from scratch. I find the stories that matter inside organizations and make them travel.
 
-In early 2026 I integrated Claude into every dimension of my strategic and creative work, with AI workflows expanding across supporting platforms, and the practice keeps growing. I now run an AI-native brand strategy consultancy, DAVA Design Media, built from the ground up using Claude as a core collaborator (my magic carpet).
+In early 2026 I integrated Claude into every dimension of my strategic and creative work, with AI workflows expanding across supporting platforms, and the practice keeps growing. I now run an AI-native brand strategy consultancy, DAVA Design Media, built from the ground up using Claude as a core collaborator. A magic carpet, not a machine.
 
-I'm here because the most interesting work happening right now lives at this intersection, and I don't want to sit on the sidelines.
+I'm here because the most interesting work happening right now lives at this intersection, and that's where I'm building.
 
 **What I'm building:**
 - DAVA Design Media — AI-native brand strategy
